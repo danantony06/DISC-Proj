@@ -1,0 +1,1 @@
+This repository holds my html and css code for my CourtCrew view profiles page. With this code, users will be able to see and interact with other user profiles. 
